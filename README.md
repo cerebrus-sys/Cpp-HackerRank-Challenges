@@ -1,4 +1,4 @@
-# Cpp-HackerRank-Challenges
+# C++ HackerRank Challenges
 
 Solutions of C++14 HackerRank Programming Challenges. Thanks for Visiting.
 
